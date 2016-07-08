@@ -28,7 +28,7 @@ class CraftSwaggerPlugin extends BasePlugin
 
 	function getDeveloperUrl()
     {
-        return 'http://github.com/aberkie';
+        return 'http://github.com/aberkie/craftswagger';
     }
  	
  	public function hasCpSection()
