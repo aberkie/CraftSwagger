@@ -35,4 +35,9 @@ class CraftSwaggerPlugin extends BasePlugin
     {
         return true;
     }
+
+    public function init()
+    {
+    	require CRAFT_PLUGINS_PATH.'/craftswagger/vendor/autoload.php';
+    }
 }
