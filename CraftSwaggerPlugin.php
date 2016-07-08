@@ -36,6 +36,13 @@ class CraftSwaggerPlugin extends BasePlugin
         return true;
     }
 
+    public function registerCpRoutes()
+    {
+        return array(
+            'swagger/test' => array('action' => 'craftSwagger/docs/getDocs')
+       );
+    }
+
     public function init()
     {
     	require CRAFT_PLUGINS_PATH.'/craftswagger/vendor/autoload.php';
