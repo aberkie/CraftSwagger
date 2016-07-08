@@ -9,7 +9,7 @@
 
 namespace Craft;
 
-class Craft-SwaggerPlugin extends BasePlugin
+class CraftSwaggerPlugin extends BasePlugin
 {
 	function getName()
 	{
