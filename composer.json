@@ -1,0 +1,12 @@
+{
+    "name": "aberkie/craft-swagger",
+    "description": "Swagger Docs for Craft CMS Plugins",
+    "type": "craft-plugin",
+    "authors": [
+        {
+            "name": "Aaron Berkowitz",
+            "email": "aaron.berkowitz@me.org"
+        }
+    ],
+    "minimum-stability": "stable"
+}
