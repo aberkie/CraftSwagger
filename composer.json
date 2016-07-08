@@ -8,5 +8,8 @@
             "email": "aaron.berkowitz@me.org"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "require": {
+        "zircote/swagger-php": "^2.0"
+    }
 }
