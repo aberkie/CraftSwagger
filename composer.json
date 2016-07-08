@@ -1,5 +1,5 @@
 {
-    "name": "aberkie/craft-swagger",
+    "name": "aberkie/craftswagger",
     "description": "Swagger Docs for Craft CMS Plugins",
     "type": "craft-plugin",
     "authors": [
